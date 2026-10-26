@@ -4,9 +4,9 @@
 **Interfaz / Modalidad:** Consola (ASCII dinámico) — 1 jugador  
 
 ## Integrantes y aportes
-- Lucio Monterubbianesi
-- Juan Manuel Olivera
-- Mateo Di Luca
+- Lucio Monterubbianesi (GitHub no informado)
+- Juan Manuel Olivera (GitHub no informado)
+- Mateo Di Luca (GitHub no informado)
 
 ## Reglas y alcance
 Juego del ahorcado por consola con gráfico ASCII progresivo (hasta 6 fallos). Diccionario de palabras secretas, registro dinámico de letras intentadas y acertadas, puntuación final y opción de revancha.
