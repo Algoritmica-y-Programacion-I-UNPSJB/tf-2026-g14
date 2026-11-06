@@ -5,8 +5,8 @@
 
 ## Integrantes y aportes
 - Lucio Monterubbianesi (GitHub no informado)
-- Juan Manuel Olivera (GitHub no informado)
-- Mateo Di Luca (GitHub no informado)
+- Juan Manuel Olivera (@juanma12343431)
+- Mateo Di Luca (@mateodiluc)
 
 ## Reglas y alcance
 Juego del ahorcado por consola con gráfico ASCII progresivo (hasta 6 fallos). Diccionario de palabras secretas, registro dinámico de letras intentadas y acertadas, puntuación final y opción de revancha.
